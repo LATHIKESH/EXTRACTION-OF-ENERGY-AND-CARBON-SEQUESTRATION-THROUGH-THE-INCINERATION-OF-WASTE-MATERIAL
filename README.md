@@ -33,7 +33,6 @@ The process begins with the insertion of waste materials into the combustion cha
 The battery is linked to an Arduino Nano and a relay circuit for power supply control. From the relay, the system is connected to the inverter circuit, and the resulting output from the inverter is connected to an LED for practical demonstration. This integrated system effectively manages waste and transforms it into a valuable energy source, promoting sustainable and eco-friendly waste management practices.
 
 ![Block Diagram](path_to_your_image/block_diagram.png)
-*Fig 4.1: Block diagram of proposed system*
 
 ### Identifying Waste Suitable for Incineration
 
@@ -74,14 +73,8 @@ We can determine the present values by incinerating the waste materials, as outl
 | 38.9             | 6.38          | 0.59         | 3.85       |
 | 41.2             | 10.92         | 0.59         | 6.52       |
 | 44.2             | 13.26         | 0.59         | 7.85       |
-
-*Table 7.1: Result*
-
 ![Without Incineration](path_to_your_image/without_incineration.png)
-*Fig 7.1: Without Incineration*
-
 ![With Incineration](path_to_your_image/with_incineration.png)
-*Fig 7.2: With Incineration*
 
 ## Conclusion and Future Work
 
